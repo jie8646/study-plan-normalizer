@@ -31,8 +31,9 @@ python normalize_plan.py 你的计划.md
 > 本精简发布版仅含主脚本 `normalize_plan.py`；其余两个专用分支脚本按需另行获取。
 
 ## App 安装包
-配套 App 的安装包 **`每日日志App-v2.3.0.apk`** 已发布在 GitHub Release（标签 `v2.3.0`）：
-https://github.com/jie8646/study-plan-normalizer/releases/download/v2.3.0/%E6%AF%8F%E6%97%A5%E6%97%A5%E5%BF%97App-v2.3.0.apk
+配套 App 的安装包 **`每日日志App-v2.3.0.apk`**（v2.3.0，约 16.6 MB）放在仓库 `apk/` 文件夹，可直接下载：
+- 直接下载：[每日日志App-v2.3.0.apk](https://github.com/jie8646/study-plan-normalizer/raw/main/apk/每日日志App-v2.3.0.apk)
+- 在仓库中查看：[apk/ 文件夹](https://github.com/jie8646/study-plan-normalizer/tree/main/apk)
 装到手机即可使用"导入学习计划"功能。
 
 ## 安全说明
