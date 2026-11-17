@@ -2,6 +2,8 @@
 
 # Qiaguang Study Schedule Manager · Study Plan Normalizer Skill
 
+[![GitHub stars](https://img.shields.io/github/stars/jie8646/study-plan-normalizer?style=flat-square&logo=github&label=Stars)](https://github.com/jie8646/study-plan-normalizer/stargazers)
+
 Turn a "narrative-style" study plan (Markdown) into a standard table that the **Daily Log** app (DiaryApp) can import directly.
 
 ## What is this
