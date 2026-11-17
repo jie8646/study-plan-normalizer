@@ -1,3 +1,5 @@
+**中文** | [English](README.en.md)
+
 # 恰光学习日程管理App · 学习计划规范化 Skill
 
 把"叙事型"学习计划 Markdown 一键转成「每日日志」App（DiaryApp）可直接导入的标准表格。
