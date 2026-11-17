@@ -3,6 +3,8 @@
 # 恰光学习日程管理App · 学习计划规范化 Skill
 
 [![GitHub stars](https://img.shields.io/github/stars/jie8646/study-plan-normalizer?style=flat-square&logo=github&label=Stars)](https://github.com/jie8646/study-plan-normalizer/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/jie8646/study-plan-normalizer?label=release)](https://github.com/jie8646/study-plan-normalizer/releases/latest)
 
 把"叙事型"学习计划 Markdown 一键转成「每日日志」App（DiaryApp）可直接导入的标准表格。
 
@@ -12,6 +14,17 @@
 
 配套 App：**恰光学习日程管理App**（原名每日日志App / DiaryApp），其核心功能之一"导入学习计划"
 需要标准表格格式。本 skill 就是为它服务的。
+
+## 界面预览
+
+<p align="center">
+  <img src="docs/screenshots/00_cover.jpg" width="23%" alt="每日任务" />
+  <img src="docs/screenshots/03_plan.jpg" width="23%" alt="学习计划导入" />
+  <img src="docs/screenshots/06_focus.jpg" width="23%" alt="专注全屏" />
+  <img src="docs/screenshots/04_usage.jpg" width="23%" alt="使用时长监督" />
+</p>
+
+<p align="center"><sub>每日任务 · 学习计划导入 · 专注全屏 · 使用时长监督</sub></p>
 
 ## 安装
 - SkillHub：`skillhub install study-plan-normalizer`（或直接搜索 `study-plan-normalizer`）
