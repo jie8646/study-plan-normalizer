@@ -1,0 +1,30 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---------- 脚本输出 ----------
+*-normalized.md
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- IDE ----------
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# ---------- Android（若将来放入 App 源码）----------
+.gradle/
+local.properties
+*.jks
+*.keystore
+build/
+captures/
