@@ -45,3 +45,7 @@ Install it on your Android phone to use the "Import study plan" feature.
 
 ## Safety
 Pure local script: reads input only, writes new files only, no network requests, no delete operations.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jie8646/study-plan-normalizer&type=Date)](https://star-history.com/#jie8646/study-plan-normalizer&Date)
