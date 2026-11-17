@@ -44,3 +44,7 @@ python normalize_plan.py 你的计划.md
 
 ## 安全说明
 纯本地脚本：只读输入、只写新文件，无网络请求、无删除操作。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jie8646/study-plan-normalizer&type=Date)](https://star-history.com/#jie8646/study-plan-normalizer&Date)
