@@ -3,6 +3,8 @@
 # Qiaguang Study Schedule Manager · Study Plan Normalizer Skill
 
 [![GitHub stars](https://img.shields.io/github/stars/jie8646/study-plan-normalizer?style=flat-square&logo=github&label=Stars)](https://github.com/jie8646/study-plan-normalizer/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/jie8646/study-plan-normalizer?label=release)](https://github.com/jie8646/study-plan-normalizer/releases/latest)
 
 Turn a "narrative-style" study plan (Markdown) into a standard table that the **Daily Log** app (DiaryApp) can import directly.
 
@@ -10,6 +12,17 @@ Turn a "narrative-style" study plan (Markdown) into a standard table that the **
 This skill normalizes free-form study plan documents into the standard Markdown table format recognized by the app's parser, fixing common problems such as dates landing in the wrong place, mis-categorized sections, and over-long titles.
 
 Companion app: **Qiaguang Study Schedule Manager** (formerly Daily Log / DiaryApp). One of its core features — "Import study plan" — requires the standard table format. This skill exists to serve it.
+
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/00_cover.jpg" width="23%" alt="Daily tasks" />
+  <img src="docs/screenshots/03_plan.jpg" width="23%" alt="Study plan import" />
+  <img src="docs/screenshots/06_focus.jpg" width="23%" alt="Full-screen focus" />
+  <img src="docs/screenshots/04_usage.jpg" width="23%" alt="Screen-time supervision" />
+</p>
+
+<p align="center"><sub>Daily tasks · Plan import · Full-screen focus · Screen-time supervision</sub></p>
 
 ## Install
 - SkillHub: `skillhub install study-plan-normalizer`
